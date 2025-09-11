@@ -2,15 +2,14 @@ using UnityEngine;
 
 public class NewMonoBehaviourScript : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    public string characterName = "Shark";
+    public float speed = 5f;
+    public Vector2 direction = new Vector2(10, 12);
     void Start()
     {
-        
+        Debug.Log($"Имя персонажа- {characterName}");
+        Debug.Log($"Скорость- {speed}");
+        transform.position = direction;
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    
 }
