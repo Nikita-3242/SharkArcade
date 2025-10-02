@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 69b397f103eb27b4b8a99b9857c78e7a
+guid: 98fa0321ec0d5f84bbe6d4c2f8dc47e8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5655905741307301173
-    second: shark-fish-clipart-lg_0
+      213: -2747674324162335970
+    second: photo_2025-09-28_12-43-16_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -139,89 +139,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: shark-fish-clipart-lg_0
+      name: photo_2025-09-28_12-43-16_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 98
-        width: 970
-        height: 209
+        y: 0
+        width: 1280
+        height: 454
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 53dc6b13e40dd7e40800000000000000
-      internalID: 5655905741307301173
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: shark-fish-clipart-lg_1
-      rect:
-        serializedVersion: 2
-        x: 327
-        y: 298
-        width: 320
-        height: 130
-      alignment: 9
-      pivot: {x: 0.4952622, y: 0.47121233}
-      border: {x: 0, y: 5, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 678cc5b1830d9f042b9444fb6997dee4
-      internalID: -1650771430
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: shark-fish-clipart-lg_2
-      rect:
-        serializedVersion: 2
-        x: 212
-        y: 0
-        width: 319
-        height: 103
-      alignment: 9
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2889c1f75e6c77249953d98c351acee1
-      internalID: -517265615
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: shark-fish-clipart-lg_3
-      rect:
-        serializedVersion: 2
-        x: 961
-        y: 26
-        width: 319
-        height: 403
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 32}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 34e35a041fe399a4a94e252df1f302ce
-      internalID: 2143566507
+      spriteID: e1ba7dd82cc4ed9d0800000000000000
+      internalID: -2747674324162335970
       vertices: []
       indices: 
       edges: []
@@ -230,7 +164,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 31ce12958e3a22045adb3c88f59c7778
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -238,14 +172,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":319.0,"y":429.0},"gridSpriteOffset":{"x":4.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      shark-fish-clipart-lg_0: 5655905741307301173
-      shark-fish-clipart-lg_1: -1650771430
-      shark-fish-clipart-lg_2: -517265615
-      shark-fish-clipart-lg_3: 2143566507
+      photo_2025-09-28_12-43-16_0: -2747674324162335970
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
