@@ -9,7 +9,7 @@ public class FishSpawner : MonoBehaviour
     public float minX = -10;
     public float maxX = 10;
     public float minY = -10;
-    public float maxY = 10;
+    public float maxY = 10;  
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
