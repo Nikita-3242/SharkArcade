@@ -6,7 +6,7 @@ public class PlayerMovement : MonoBehaviour
 {
 
     public float speed = 2;
-    private float useSpeed = 50;
+    private float useSpeed = 2;
     private Rigidbody2D body;
     public GameObject waterSurface;
     public GameObject waterSplash;
@@ -21,7 +21,7 @@ public class PlayerMovement : MonoBehaviour
     {
         float hor = Input.GetAxis("Horizontal");
         float ver = Input.GetAxis("Vertical");
-        Vector3 move = new Vector3(ver, hor, 0);
+        Vector3 move = new Vector3(-ver, hor, 0);
         move.Normalize();
         body.AddRelativeForce(move * useSpeed);
 
@@ -43,7 +43,7 @@ public class PlayerMovement : MonoBehaviour
         }
         else
         {
-            body.gravityScale = 1;
+            body.gravityScale = 5;
             body.linearDamping = 0;
             useSpeed = 0;
 
